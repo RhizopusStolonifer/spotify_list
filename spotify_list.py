@@ -14,7 +14,7 @@ sp = spotipy.Spotify(auth_manager=SpotifyOAuth(client_id=SPOTIPY_CLIENT_ID,
                                                scope="playlist-read-private"))
 
 # Playlist ID (you can get this from Spotify's share link)
-playlist_id = 'https://open.spotify.com/playlist/6gVNmlVNh2FBtgQRvFdiXf?si=073130be4f324062'
+playlist_id = 'https://open.spotify.com/playlist/4zWZvBihm6BjSHwqc9rloG?si=1f6c75d1bfb64e28'
 
 # Fetch playlist tracks
 results = sp.playlist_tracks(playlist_id)
