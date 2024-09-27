@@ -1,5 +1,5 @@
 # Spotify List
-This is something I made for Simone and I's joint Spotify playlist for the 2025 prom. It updates a list with all the songs from the playlist when run.
+This is something I made for a friend and I's joint Spotify playlist for the 2025 prom. It updates a list with all the songs from the playlist when run.
 ## Instructions
 1. Download the source code (.zip).
 2. Extract the downloaded .zip file.
